@@ -1,0 +1,7 @@
+C:\Users\Anas FAOUR\source\repos\StateWithDP\bin\Debug\StateWithDP.exe.config
+C:\Users\Anas FAOUR\source\repos\StateWithDP\bin\Debug\StateWithDP.exe
+C:\Users\Anas FAOUR\source\repos\StateWithDP\bin\Debug\StateWithDP.pdb
+C:\Users\Anas FAOUR\source\repos\StateWithDP\obj\Debug\StateWithDP.csprojAssemblyReference.cache
+C:\Users\Anas FAOUR\source\repos\StateWithDP\obj\Debug\StateWithDP.csproj.CoreCompileInputs.cache
+C:\Users\Anas FAOUR\source\repos\StateWithDP\obj\Debug\StateWithDP.exe
+C:\Users\Anas FAOUR\source\repos\StateWithDP\obj\Debug\StateWithDP.pdb
