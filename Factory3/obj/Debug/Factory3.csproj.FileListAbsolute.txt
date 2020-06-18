@@ -1,0 +1,7 @@
+C:\Users\Anas FAOUR\source\repos\Factory3\bin\Debug\Factory3.exe.config
+C:\Users\Anas FAOUR\source\repos\Factory3\bin\Debug\Factory3.exe
+C:\Users\Anas FAOUR\source\repos\Factory3\bin\Debug\Factory3.pdb
+C:\Users\Anas FAOUR\source\repos\Factory3\obj\Debug\Factory3.csproj.CoreCompileInputs.cache
+C:\Users\Anas FAOUR\source\repos\Factory3\obj\Debug\Factory3.exe
+C:\Users\Anas FAOUR\source\repos\Factory3\obj\Debug\Factory3.pdb
+C:\Users\Anas FAOUR\source\repos\Factory3\obj\Debug\Factory3.csprojAssemblyReference.cache

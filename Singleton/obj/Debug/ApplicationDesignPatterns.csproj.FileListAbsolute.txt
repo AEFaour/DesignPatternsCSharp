@@ -1,0 +1,11 @@
+C:\Users\Anas FAOUR\source\repos\ApplicationDesignPatterns\bin\Debug\ApplicationDesignPatterns.exe.config
+C:\Users\Anas FAOUR\source\repos\ApplicationDesignPatterns\bin\Debug\ApplicationDesignPatterns.exe
+C:\Users\Anas FAOUR\source\repos\ApplicationDesignPatterns\bin\Debug\ApplicationDesignPatterns.pdb
+C:\Users\Anas FAOUR\source\repos\ApplicationDesignPatterns\bin\Debug\MySql.Data.dll
+C:\Users\Anas FAOUR\source\repos\ApplicationDesignPatterns\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Anas FAOUR\source\repos\ApplicationDesignPatterns\bin\Debug\MySql.Web.dll
+C:\Users\Anas FAOUR\source\repos\ApplicationDesignPatterns\obj\Debug\ApplicationDesignPatterns.csprojAssemblyReference.cache
+C:\Users\Anas FAOUR\source\repos\ApplicationDesignPatterns\obj\Debug\ApplicationDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Anas FAOUR\source\repos\ApplicationDesignPatterns\obj\Debug\ApplicationDesignPatterns.csproj.CopyComplete
+C:\Users\Anas FAOUR\source\repos\ApplicationDesignPatterns\obj\Debug\ApplicationDesignPatterns.exe
+C:\Users\Anas FAOUR\source\repos\ApplicationDesignPatterns\obj\Debug\ApplicationDesignPatterns.pdb

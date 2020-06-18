@@ -1,0 +1,7 @@
+C:\Users\Anas FAOUR\source\repos\Factory2\bin\Debug\Factory2.exe.config
+C:\Users\Anas FAOUR\source\repos\Factory2\bin\Debug\Factory2.exe
+C:\Users\Anas FAOUR\source\repos\Factory2\bin\Debug\Factory2.pdb
+C:\Users\Anas FAOUR\source\repos\Factory2\obj\Debug\Factory2.csproj.CoreCompileInputs.cache
+C:\Users\Anas FAOUR\source\repos\Factory2\obj\Debug\Factory2.exe
+C:\Users\Anas FAOUR\source\repos\Factory2\obj\Debug\Factory2.pdb
+C:\Users\Anas FAOUR\source\repos\Factory2\obj\Debug\Factory2.csprojAssemblyReference.cache
