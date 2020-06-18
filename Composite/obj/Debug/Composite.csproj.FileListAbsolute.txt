@@ -1,0 +1,7 @@
+C:\Users\Anas FAOUR\source\repos\Composite\bin\Debug\Composite.exe.config
+C:\Users\Anas FAOUR\source\repos\Composite\bin\Debug\Composite.exe
+C:\Users\Anas FAOUR\source\repos\Composite\bin\Debug\Composite.pdb
+C:\Users\Anas FAOUR\source\repos\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+C:\Users\Anas FAOUR\source\repos\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\Anas FAOUR\source\repos\Composite\obj\Debug\Composite.exe
+C:\Users\Anas FAOUR\source\repos\Composite\obj\Debug\Composite.pdb
