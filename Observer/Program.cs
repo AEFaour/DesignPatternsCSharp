@@ -39,8 +39,8 @@ namespace Observer
 
         public Eleve()
         {
-            this.Observers = new  List<Observer>();
-            this.Notes = new  List<float>();
+            this.Observers = new List<Observer>();
+            this.Notes = new List<float>();
         }
 
         public void AjouterNote(float note)
@@ -82,19 +82,17 @@ namespace Observer
 
     class NotesObserver : Observer
     {
-        private object esle;
-
         public NotesObserver(Eleve Eleve)
         {
             this.Eleve = Eleve;
-            this.Eleve.AttachObserver(this);
+            Eleve.AttachObserver(this);
         }
         public override void Update()
         {
 
             float resultatFinal = 0;
 
-          
+
             foreach (var note in Eleve.GetNotes())
             {
                 resultatFinal += note;
