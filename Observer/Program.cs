@@ -15,11 +15,11 @@ namespace Observer
             new NotesObserver(Eleve);
 
             Eleve.AjouterNote(15.0f);
-            Console.WriteLine($"Le moyenne de l'eleve = {Eleve.GetMoyenne()}");
+            Console.WriteLine($"La moyenne de l'eleve = {Eleve.GetMoyenne()}");
             Eleve.AjouterNote(5.0f);
-            Console.WriteLine($"Le moyenne de l'eleve = {Eleve.GetMoyenne()}");
+            Console.WriteLine($"La moyenne de l'eleve = {Eleve.GetMoyenne()}");
             Eleve.AjouterNote(13.0f);
-            Console.WriteLine($"Le moyenne de l'eleve = {Eleve.GetMoyenne()}");
+            Console.WriteLine($"La moyenne de l'eleve = {Eleve.GetMoyenne()}");
 
             Console.ReadKey();
         }
