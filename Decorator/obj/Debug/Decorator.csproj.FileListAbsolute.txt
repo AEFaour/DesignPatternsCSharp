@@ -1,0 +1,6 @@
+C:\Users\Anas FAOUR\source\repos\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\Anas FAOUR\source\repos\Decorator\bin\Debug\Decorator.exe
+C:\Users\Anas FAOUR\source\repos\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Anas FAOUR\source\repos\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Anas FAOUR\source\repos\Decorator\obj\Debug\Decorator.exe
+C:\Users\Anas FAOUR\source\repos\Decorator\obj\Debug\Decorator.pdb
