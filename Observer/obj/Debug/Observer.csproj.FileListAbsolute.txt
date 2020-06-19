@@ -1,0 +1,7 @@
+C:\Users\Anas FAOUR\source\repos\Observer\bin\Debug\Observer.exe.config
+C:\Users\Anas FAOUR\source\repos\Observer\bin\Debug\Observer.exe
+C:\Users\Anas FAOUR\source\repos\Observer\bin\Debug\Observer.pdb
+C:\Users\Anas FAOUR\source\repos\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
+C:\Users\Anas FAOUR\source\repos\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Anas FAOUR\source\repos\Observer\obj\Debug\Observer.exe
+C:\Users\Anas FAOUR\source\repos\Observer\obj\Debug\Observer.pdb
