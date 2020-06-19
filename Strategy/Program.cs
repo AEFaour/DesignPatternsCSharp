@@ -44,7 +44,7 @@ namespace Strategy
         {
             char euro = Convert.ToChar(8364);
 
-            Console.WriteLine($"Le montant {montant} euros a été payé par Paypal");
+            Console.WriteLine($"Le montant de {montant} euros a été payé par Paypal");
         }
     }
 
@@ -63,7 +63,7 @@ namespace Strategy
 
         public void Payer(float montant)
         {
-            Console.WriteLine($"Le montant {montant} euros a été payé par Carte de Credit");
+            Console.WriteLine($"Le montant de {montant} euros a été payé par Carte de Credit");
         }
     }
 
