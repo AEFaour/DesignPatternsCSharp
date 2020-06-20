@@ -1,0 +1,7 @@
+C:\Users\Anas FAOUR\source\repos\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\Anas FAOUR\source\repos\Visitor\bin\Debug\Visitor.exe
+C:\Users\Anas FAOUR\source\repos\Visitor\bin\Debug\Visitor.pdb
+C:\Users\Anas FAOUR\source\repos\Visitor\obj\Debug\Visitor.csprojAssemblyReference.cache
+C:\Users\Anas FAOUR\source\repos\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Anas FAOUR\source\repos\Visitor\obj\Debug\Visitor.exe
+C:\Users\Anas FAOUR\source\repos\Visitor\obj\Debug\Visitor.pdb
